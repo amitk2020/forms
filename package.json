@@ -1,8 +1,17 @@
 {
     "name": "coffee-reservation",
     "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
     "dependencies": {
         "@supabase/supabase-js": "^2.45.0",
         "resend": "^6.0.1"
-    }
+    },
+    "devDependencies": {}
 }
